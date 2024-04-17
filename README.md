@@ -22,5 +22,5 @@ samples, guidance on mobile development, and a full API reference.
 https://docs.google.com/document/d/1nqM4E-3dM1XYZgsQvvjxy916Ifc1Bm1rGHrptuLQNmE/edit?usp=sharing
 
 ### Resultados
-![IMG_1](https://github.com/JaquelineGalindoHuitron/UII-Act5-Diseno/assets/143548375/b5488663-61ed-4526-b9cd-e64a5857e53c)
+![IMG_1](https://github.com/JaquelineGalindoHuitron/UII-Act5-Diseno/assets/143548375/ecb634ba-2ecb-4aed-9fdb-9215b1b58d08)
 
